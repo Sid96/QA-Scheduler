@@ -1,0 +1,11 @@
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\Calendar Project\MessageBoxManager\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\Calendar Project\MessageBoxManager\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\Calendar Project\MessageBoxManager\WindowsApplication1\bin\Debug\MessageBoxManager.dll
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\Calendar Project\MessageBoxManager\WindowsApplication1\bin\Debug\MessageBoxManager.pdb
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\Calendar Project\MessageBoxManager\WindowsApplication1\obj\Debug\WindowsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\Calendar Project\MessageBoxManager\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\Calendar Project\MessageBoxManager\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\Calendar Project\MessageBoxManager\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\Calendar Project\MessageBoxManager\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\MessageBoxManager\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\MessageBoxManager\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

@@ -1,0 +1,20 @@
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\Calendar Project\MessageBoxManager\MessageBoxManager\bin\Debug\MessageBoxManager.dll
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\Calendar Project\MessageBoxManager\MessageBoxManager\bin\Debug\MessageBoxManager.pdb
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\Calendar Project\MessageBoxManager\MessageBoxManager\obj\Debug\MessageBoxManager.csprojResolveAssemblyReference.cache
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\Calendar Project\MessageBoxManager\MessageBoxManager\obj\Debug\MessageBoxManager.dll
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\Calendar Project\MessageBoxManager\MessageBoxManager\obj\Debug\MessageBoxManager.pdb
+C:\Users\sidhant.mishra\Desktop\DevStuff\C#\MessageBoxManager\MessageBoxManager\bin\Debug\MessageBoxManager.dll
+C:\Users\sidhant.mishra\Desktop\DevStuff\C#\MessageBoxManager\MessageBoxManager\bin\Debug\MessageBoxManager.pdb
+C:\Users\sidhant.mishra\Desktop\DevStuff\C#\MessageBoxManager\MessageBoxManager\obj\Debug\MessageBoxManager.csprojResolveAssemblyReference.cache
+C:\Users\sidhant.mishra\Desktop\DevStuff\C#\MessageBoxManager\MessageBoxManager\obj\Debug\MessageBoxManager.dll
+C:\Users\sidhant.mishra\Desktop\DevStuff\C#\MessageBoxManager\MessageBoxManager\obj\Debug\MessageBoxManager.pdb
+C:\Users\sidhant.mishra\Desktop\Calendar Project Version 4\MessageBoxManager\MessageBoxManager\bin\Debug\MessageBoxManager.dll
+C:\Users\sidhant.mishra\Desktop\Calendar Project Version 4\MessageBoxManager\MessageBoxManager\bin\Debug\MessageBoxManager.pdb
+C:\Users\sidhant.mishra\Desktop\Calendar Project Version 4\MessageBoxManager\MessageBoxManager\obj\Debug\MessageBoxManager.csprojResolveAssemblyReference.cache
+C:\Users\sidhant.mishra\Desktop\Calendar Project Version 4\MessageBoxManager\MessageBoxManager\obj\Debug\MessageBoxManager.dll
+C:\Users\sidhant.mishra\Desktop\Calendar Project Version 4\MessageBoxManager\MessageBoxManager\obj\Debug\MessageBoxManager.pdb
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\MessageBoxManager\MessageBoxManager\bin\Debug\MessageBoxManager.dll
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\MessageBoxManager\MessageBoxManager\bin\Debug\MessageBoxManager.pdb
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\MessageBoxManager\MessageBoxManager\obj\Debug\MessageBoxManager.csprojResolveAssemblyReference.cache
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\MessageBoxManager\MessageBoxManager\obj\Debug\MessageBoxManager.dll
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\MessageBoxManager\MessageBoxManager\obj\Debug\MessageBoxManager.pdb

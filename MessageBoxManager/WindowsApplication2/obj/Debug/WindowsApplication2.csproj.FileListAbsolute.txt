@@ -1,0 +1,13 @@
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\MessageBoxManager\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\MessageBoxManager\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\MessageBoxManager\WindowsApplication2\bin\Debug\ro\WindowsApplication2.resources.dll
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\MessageBoxManager\WindowsApplication2\bin\Debug\MessageBoxManager.dll
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\MessageBoxManager\WindowsApplication2\bin\Debug\MessageBoxManager.pdb
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\MessageBoxManager\WindowsApplication2\obj\Debug\WindowsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\MessageBoxManager\WindowsApplication2\obj\Debug\WindowsApplication2.LocalResource.resources
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\MessageBoxManager\WindowsApplication2\obj\Debug\WindowsApplication2.Properties.Resources.resources
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\MessageBoxManager\WindowsApplication2\obj\Debug\WindowsApplication2.LocalResource.ro.resources
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\MessageBoxManager\WindowsApplication2\obj\Debug\WindowsApplication2.csproj.GenerateResource.Cache
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\MessageBoxManager\WindowsApplication2\obj\Debug\ro\WindowsApplication2.resources.dll
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\MessageBoxManager\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\sidhant.mishra\Desktop\Dev Stuff\C#\MessageBoxManager\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
