@@ -153,3 +153,26 @@ C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar P
 C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\CalendarAppV4\CalendarAppV4\obj\Debug\Scheduling Application.TrustInfo.xml
 C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\CalendarAppV4\CalendarAppV4\obj\Debug\Scheduling Application.exe.manifest
 C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\CalendarAppV4\CalendarAppV4\obj\Debug\Scheduling Application.application
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\bin\Debug\Scheduling Application.exe.config
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\obj\Debug\Scheduling Application.exe
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\obj\Debug\Scheduling Application.pdb
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\bin\Debug\Scheduling Application.exe.manifest
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\bin\Debug\Scheduling Application.application
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\bin\Debug\Scheduling Application.exe
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\bin\Debug\Scheduling Application.pdb
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\bin\Debug\Calendar.NET.dll
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\bin\Debug\MessageBoxManager.dll
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\bin\Debug\Calendar.NET.pdb
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\bin\Debug\Calendar.NET.xml
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\bin\Debug\MessageBoxManager.pdb
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\obj\Debug\CalendarAppV4.csprojResolveAssemblyReference.cache
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\obj\Debug\CalendarAppV4.CreateNewTargetVersion.resources
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\obj\Debug\CalendarAppV4.DisplayTargVersion.resources
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\obj\Debug\CalendarAppV4.TargVersionEdit.resources
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\obj\Debug\CalendarAppV4.ViewCalendar.resources
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\obj\Debug\CalendarAppV4.Home.resources
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\obj\Debug\CalendarAppV4.Properties.Resources.resources
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\obj\Debug\CalendarAppV4.csproj.GenerateResource.Cache
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\obj\Debug\Scheduling Application.TrustInfo.xml
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\obj\Debug\Scheduling Application.exe.manifest
+C:\Users\Sidhant\Desktop\calendar\Calendar Application (All Versions)\Calendar ProjectV5 SQL database\QA-Scheduler\CalendarAppV4\CalendarAppV4\obj\Debug\Scheduling Application.application
