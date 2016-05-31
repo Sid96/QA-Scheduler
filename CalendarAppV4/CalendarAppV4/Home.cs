@@ -187,7 +187,7 @@ namespace CalendarAppV4
                 }
                 else if (found && counter == 0)
                 {
-                    MessageBox.Show("No Target Versions with that name.");
+                    MessageBox.Show("No Target Versions with that name.");                                   `
                     Globals.foundString = null;
                     userInput.Text = null;
                 }
